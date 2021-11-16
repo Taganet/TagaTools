@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637020262 source:c:\users\eliel\onedrive\documentos\pessoal\elder\unip\complementares\codeblocks\tagatools\main.c
+	<stdio.h>
+	<stdlib.h>
+
